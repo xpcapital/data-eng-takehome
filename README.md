@@ -4,7 +4,7 @@ This is a test for data engineers at TakeOff Labs.
 
 ## Submission 
 
-* You have 30 minutes to perform the following exercise
+* You have an hour to perform the following exercise
 * Submit your results in a single zip (most convenient would be to use your preferred text editor and to write answers to the questions along with some comments) by email to the person responsible for your technical test
 
 ## Exercise
