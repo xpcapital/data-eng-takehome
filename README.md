@@ -5,6 +5,7 @@ This is a test for data engineers at TakeOff Labs.
 ## Submission 
 
 * You have an hour to perform the following exercise
+* **Please submit your answers in English 🇺🇸**
 * Submit your results in a single zip (most convenient would be to use your preferred text editor and to write answers to the questions along with some comments) by email to the person responsible for your technical test
 
 ## Exercise
